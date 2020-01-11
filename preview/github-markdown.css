@@ -313,14 +313,16 @@ body dd {
 }
 
 body code {
-  font-family: "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
+  /* font-family: "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace; */
+  font-family: "Sarasa Mono T SC";
+  font-size: 14px;
 }
 
 body pre {
   margin-top: 0;
   margin-bottom: 0;
-  font: 12px "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  /* font: 14px "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace; */
+  font: 14px "Sarasa Mono T SC";
 }
 
 body .octicon {
@@ -655,7 +657,8 @@ body .full-commit .btn-outline:not(:disabled):hover {
 body kbd {
   display: inline-block;
   padding: 3px 5px;
-  font: 12px "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  /* font: 14px "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace; */
+  font: 14px "Sarasa Mono T SC";
   line-height: 10px;
   color: #555;
   vertical-align: middle;
