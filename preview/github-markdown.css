@@ -313,14 +313,14 @@ body dd {
 }
 
 body code {
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
 }
 
 body pre {
   margin-top: 0;
   margin-bottom: 0;
-  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 12px "Sarasa Mono T SC", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 body .octicon {
